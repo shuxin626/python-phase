@@ -1,6 +1,7 @@
 '''
 Created on Mar 26, 2018
 @author: Hao Wu
+https://github.com/fullerene12/AntCam/blob/master/AntCamHW/flircam/flircam_dev.py
 '''
 
 import numpy as np
